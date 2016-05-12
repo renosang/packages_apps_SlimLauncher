@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="slim_application_name">SlimLauncher</string>
+
+    <string name="google_title">Google</string>
+
+    <string name="default_string">Default</string>
+    <string name="reset_string">Reset</string>
+    <string name="set_string">Set</string>
+    <string name="off_string">Off</string>
+    <string name="error_message_title">Error</string>
+
+    <string name="icon_size_title">Icon size</string>
+
+    <!-- Text for default screen button -->
+    <string name="default_screen_button_text">Default Screen</string>
+
+    <!-- App picker -->
+    <string name="profile_applist_title">Apps</string>
+    <string name="profile_choose_app">Choose app</string>
+    <string name="profiles_add">Add</string>
+    <string name="picker_activities">Activities</string>
+    <string name="select_custom_app_title">Select custom app</string>
+    <string name="select_custom_activity_title">Select custom activity</string>
+
+    <!-- Grid Size -->
+    <string name="grid_size_title">Grid size</string>
+    <string name="portrait_grid_size_title">Portrait Grid Size</string>
+    <string name="landscape_grid_size_title">Landscae Grid Size</string>
+    <string name="grid_size_summary">Choose the number of rows/columns</string>
+    <string name="grid_size_rows_title">Rows</string>
+    <string name="grid_size_columns_title">Columns</string>
+
+    <!-- SlimLauncher actions -->
+    <string name="shortcut_picker_title">SlimLauncher shortcuts</string>
+    <string name="shortcut_action_launcher_apps">All apps</string>
+    <string name="shortcut_action_launcher_overview">Overview mode</string>
+    <string name="shortcut_action_launcher_settings">Launcher settings</string>
+    <string name="shortcut_action_launcher_homescreen">Default homescreen</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right" translatable="false">→</string>
+    <string name="arrow_down" translatable="false">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint" translatable="false">#ff000000</string>
+    <string name="set">Set</string>
+
+    <!-- Homescreen Settings -->
+    <string name="homescreen_title">Homescreen</string>
+    <string name="show_search_bar_title">Show search bar</string>
+
+    <!-- Drawer Settings -->
+    <string name="drawer_title">Drawer</string>
+    <string name="drawer_style_title">Drawer style</string>
+    <string name="drawer_style_paged">Paged</string>
+    <string name="drawer_style_vertical">Vertical</string>
+
+    <!-- Dock Settings -->
+    <string name="dock_title">Dock</string>
+    <string name="dock_icons_title">Dock icons</string>
+    <string name="dock_icons_summary">Number of icons in the dock</string>
+
+    <!-- General Settings -->
+    <string name="general_title">General</string>
+
+    <!-- Folder Settings -->
+    <string name="folder_title">Folders</string>
+    <string name="folder_background_color_title">Background Color</string>
+    <string name="folder_icon_text_color_title">Icon text color</string>
+    <string name="folder_preview_color_title">Preview color</string>
+    <string name="hide_folder_name_title">Hide folder name</string>
+    <string name="hide_folder_name_summary">When a folder is open do not show its name</string>
+
+    <!-- Gestures -->
+    <string name="gestures_title">Gestures</string>
+    <string name="gesture_default">nothing</string>
+    <string name="gestures_left_up_gesture_title">Swipe up left</string>
+    <string name="gestures_middle_up_gesture_title">Swipe up middle</string>
+    <string name="gestures_right_up_gesture_title">Swipe up right</string>
+    <string name="gestures_left_down_gesture_title">Swipe down left</string>
+    <string name="gestures_middle_down_gesture_title">Swipe down middle</string>
+    <string name="gestures_right_down_gesture_title">Swipe down right</string>
+    <string name="gestures_pinch_gesture_title">Pinch</string>
+    <string name="gestures_spread_gesture_title">Spread</string>
+    <string name="gestures_double_tap_gesture_title">Double tap</string>
+    <string name="no_last_app">Last app not found.</string>
+
+    <string name="gesture_target_nothing">Nothing</string>
+    <string name="gesture_target_homescreen">Go to default homescreen</string>
+    <string name="gesture_target_drawer">Open app drawer</string>
+    <string name="gesture_target_previews">Show previews</string>
+    <string name="gesture_target_settings">Open launcher settings</string>
+    <string name="gesture_target_last_app">Last app</string>
+    <string name="gesture_target_custom">Custom</string>
+
+    <!-- Icon Pack  -->
+    <string name="dialog_pick_iconpack_title">Pick icon pack</string>
+    <string name="default_iconpack_title">Default</string>
+    <string name="icon_packs_title">Icon packs</string>
+    <string name="no_iconpacks_summary">No icon packs installed</string>
+    <string name="pref_icon_pack_title">Icon pack</string>
+
+    <!-- Label for edit drop target. [CHAR_LIMIT=20]-->
+    <string name="edit_target_label">Edit</string>
+
+    <string name="reset_custom_icons">Reset Custom Icons</string>
+
+</resources>
